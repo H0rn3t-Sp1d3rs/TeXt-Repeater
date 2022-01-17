@@ -1,6 +1,6 @@
 # TeXt-Repeater
 
-#Run Command
+<h3>Run Command</h3>
 
 ```
 pkg install python
