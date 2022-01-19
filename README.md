@@ -17,4 +17,3 @@ python H0rn3t.py
 ```
 
 
-https://github.com/H0rn3t
