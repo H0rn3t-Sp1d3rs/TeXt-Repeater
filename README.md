@@ -5,7 +5,6 @@
 
 ```
 
-pip install emojify
 
 pkg install python
 
