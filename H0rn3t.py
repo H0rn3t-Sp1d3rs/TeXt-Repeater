@@ -29,8 +29,8 @@ print(main)
 print("\033[1;34;40m=============================================")
 print("\033[1;33;40m|        DEVELOPED BY MD SUMON ISLAM        |")
 print("\033[1;34;40m=============================================")
-print("\033[1;33;40mCODE NAME: M4D S0UL  ")
-print("GITHUB : HTTPS://GITHUB.COM/T34M-B4DS")
+print("\033[1;33;40mCODE NAME: H0rn3t Sp1d3rs  ")
+print("GITHUB : HTTPS://GITHUB.COM/H0rn3t-Sp1d3rs")
 print("Website : https://m4ds0ul.blogspot.com")
 print("\033[1;34;40m=============================================")
 print("\033[1;33;40m|        DEVELOPED BY MD SUMON ISLAM        |")
@@ -59,7 +59,7 @@ if opton=='01' or opton=='1':
 	
 
 elif opton=='2' or opton=='02':
-	os.system(" xdg-open https://www.facebook.com/100203015563553")
+	os.system(" xdg-open https://www.facebook.com/call.me.H0rn3t.Sp1d3rs")
 	os.system('H0rn3t.py')
 
 else:
