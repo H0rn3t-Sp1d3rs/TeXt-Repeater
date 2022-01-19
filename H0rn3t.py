@@ -60,7 +60,7 @@ if opton=='01' or opton=='1':
 
 elif opton=='2' or opton=='02':
 	os.system(" xdg-open https://www.facebook.com/call.me.H0rn3t.Sp1d3rs")
-	os.system('H0rn3t.py')
+	os.system('python H0rn3t.py')
 
 else:
 	print('\033[1;31;40mWRONG')
