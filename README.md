@@ -4,6 +4,9 @@
 <h3>Run Command</h3>
 
 ```
+
+pip install emojify
+
 pkg install python
 
 pkg install git
